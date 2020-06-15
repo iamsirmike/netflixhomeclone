@@ -61,7 +61,7 @@ class _IndexState extends State<Index> {
               Container(
                 width: 900,
                 child: Text(
-                  'Unlimited moveis, TV shows, and more.',
+                  'Unlimited movies, TV shows, and more.',
                   textAlign: TextAlign.center,
                   style: TextStyle(
                     color: Colors.white,
